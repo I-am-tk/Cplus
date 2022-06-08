@@ -10,3 +10,13 @@
 - CPU vs GPU
 - storing the return address: 2:54:09
 - What are streams in c++
+- void pointer and null pointer
+- implicit conversion
+- binary conversion of decimal numbers
+- how to check for nan
+- conversion between char and int
+- static_cast
+- input and output manipulators
+- need to learn about pointer
+- return reference and pointer
+- translation unit in c++
